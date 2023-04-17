@@ -6,12 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabiLiam&layout=compact&langs_count=16&theme=dark">  
 </div>
 
- <html>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  
-  <i class="devicon-html5-plain-wordmark colored"></i>
-  
-  <i class="devicon-css3-plain-wordmark colored"></i>
-  
-  <i class="devicon-javascript-plain colored"></i>
- </html>
+<div style="display: inline_block"><br>
+  <img align"center" alt="Dabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align"center" alt="Dabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align"center" alt="Dabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
