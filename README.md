@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabiLiam&layout=compact&langs_count=16&theme=dark">  
 </div>
 
+ <html>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
   <i class="devicon-html5-plain-wordmark colored"></i>
@@ -13,3 +14,4 @@
   <i class="devicon-css3-plain-wordmark colored"></i>
   
   <i class="devicon-javascript-plain colored"></i>
+ </html>
