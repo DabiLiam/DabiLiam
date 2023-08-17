@@ -5,7 +5,7 @@
 <img align="right" height="400em" src="https://raw.githubusercontent.com/gist/DabiLiam/de92f39d0b575d8d090ba21fa7dbb08e/raw/6eba318eb9112a1e5c23477671bef933bb98f00d/githubCard.svg">
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DabiLiam&show_icons=true&count_private=true&hide_border=true&title_color=57359a&icon_color=57359a4&text_color=c9d1d9&bg_color=0d1117" alt="Davi Franco Stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DabiLiam&show_icons=true&count_private=true&hide_border=true&title_color=57359a&icon_color=57359a4&text_color=f2e8e1&bg_color=0d1117" alt="tainá queiróz stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabiLiam&layout=compact&hide_border=true&title_color=57359a&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 <div align="right"> 
