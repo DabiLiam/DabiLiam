@@ -23,5 +23,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<div align="center">
 </div>
+
+![Snake animation] (https://github.com/DabiLiamGF/DabiLiamGF/blob/ output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57359a&height=120&section=footer"/>
   
