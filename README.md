@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B6B6B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Franco+I'm+17+years+old;I+intend+to+be+a+future+full+stack+:D;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DabiLiam&show_icons=true&count_private=true&hide_border=true&title_color=57359a&icon_color=57359a4&text_color=f2e8e1&bg_color=0d1117" alt="Dabi Liam stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabiLiam&layout=compact&hide_border=true&title_color=57359a&text_color=f2e8e1&bg_color=0d1117" />
 </div>
 <div align="right"> 
