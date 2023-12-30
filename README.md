@@ -24,6 +24,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<div align="center">
 </div>
 
-![Snake animation] (https://github.com/DabiLiam/DabiLiam/blob/ output/github-contribution-grid-snake.svg)r(--c1);animation-name:u2;transform-origin:376.9px 0}.u.u3{fill:var(--c2);animation-name:u3;transform-origin:392.6px 0}.u.u4{fill:var(--c3);animation-c" x="114" 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57359a&height=120&section=footer"/>
   
