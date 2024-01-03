@@ -17,7 +17,9 @@
          <img align="center" height="30" width="40" alt"css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      </div>
 
- </div>
+ <h1 alin="center">Estudando</h1>
+     <img align="center" height="30" width="40" alt"js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align="center" height="30" width="40" alt"css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
   
