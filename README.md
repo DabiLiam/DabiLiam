@@ -10,7 +10,6 @@
 
  <div align="center">
      <div style="display: inline_block"><br>
-         ![bmo](https://github.com/DabiLiam/DabiLiam/assets/130109019/bf325f92-8185-4dd9-bd3f-e404d2c072bf)
          <h1 align="center">Habilidades</h1>
          <img align="center" height="30" width="40" alt"js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" height="30" width="40" alt"html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
