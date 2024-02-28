@@ -10,7 +10,7 @@
 
  <div align="center">
      <div style="display: inline_block"><br>
-         <div align="left">
+         <div>
              <img height="250" alt="Molang" src="https://github.com/DabiLiam/DabiLiam/assets/130109019/c17b6eb2-f298-4b80-b11e-7e57aea636ae">
          </div>
          <h1 align="center">Habilidades</h1>
