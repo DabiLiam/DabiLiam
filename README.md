@@ -11,13 +11,13 @@
  <div align="center">
      <div style="display: inline_block"><br>
         <img align="left" height="250" alt="Molang" src="https://github.com/DabiLiam/DabiLiam/assets/130109019/c17b6eb2-f298-4b80-b11e-7e57aea636ae">
-         <h1 align="center">Habilidades</h1>
+         <h3 align="center">Habilidades</h3>
          <img align="center" height="30" width="40" alt"js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" height="30" width="40" alt"html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
          <img align="center" height="30" width="40" alt"css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      </div>
 
- <h1 align="center">Estudando</h1>
+ <h3 align="center">Estudando</h3>
      <img align="center" height="30" width="40" alt"js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      <img align="center" height="30" width="40" alt"css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
