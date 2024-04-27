@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Franco+I'm+17+years+old;I+intend+to+be+a+future+full+stack+:D;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DabiLiam&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DabiLiam&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabiLiam&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
