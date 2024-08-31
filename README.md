@@ -10,16 +10,9 @@
 
  <div align="center">
      <div style="display: inline_block"><br>
-        <img align="left" height="250" alt="Molang" src="https://github.com/DabiLiam/DabiLiam/assets/130109019/c17b6eb2-f298-4b80-b11e-7e57aea636ae">
-         <h3 align="center">Habilidades</h3>
-         <img align="center" height="30" width="40" alt"js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-         <img align="center" height="30" width="40" alt"html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" height="30" width="40" alt"css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" height="250" alt="Molang" src="https://github.com/DabiLiam/DabiLiam/assets/130109019/c17b6eb2-f298-4b80-b11e-7e57aea636ae">
      </div>
 
- <h3 align="center">Estudando</h3>
-     <img align="center" height="30" width="40" alt"js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="center" height="30" width="40" alt"css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
