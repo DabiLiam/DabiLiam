@@ -5,10 +5,10 @@
 <p>Student ADS <a href="https://www.sumare.edu.br/">@Sumaré</a></p>
    <p>FullStack Developer</p>
    
-<div style="">
-   <a href="https://www.instagram.com/dabiiliam/" target="_blank"><img src="https://img.shields.io/badge/dabiliam-00875f?style=for-the-badge&logo=instagram&logoColor=white&amp target="_blank"></a>
-   <a href="https://www.linkedin.com/in/davi-franco-b834532b7/" target="_blank"><img src="https://img.shields.io/badge/Davi%20Franco-00875f?style=for-the-badge&logo=linkedin&logoColor=white&amp target="_blank"></a>
-   <a href="mailto:08davidev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/08davidev@gmail.com-00875f?style=for-the-badge&logo=gmail&logoColor=white&amp target="_blank"></a>
+<div>
+   <a href="https://www.instagram.com/dabiiliam/" target="_blank"><img style="width: 100px;" src="https://img.shields.io/badge/dabiliam-00875f?style=for-the-badge&logo=instagram&logoColor=white&amp target="_blank"></a>
+   <a href="https://www.linkedin.com/in/davi-franco-b834532b7/" target="_blank"><img style="width: 120px;" src="https://img.shields.io/badge/Davi%20Franco-00875f?style=for-the-badge&logo=linkedin&logoColor=white&amp target="_blank"></a>
+   <a href="mailto:08davidev@gmail.com" target="_blank"><img style="width: 180px;" src="https://img.shields.io/badge/08davidev@gmail.com-00875f?style=for-the-badge&logo=gmail&logoColor=white&amp target="_blank"></a>
 </div>
 
 
