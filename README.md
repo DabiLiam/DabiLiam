@@ -22,7 +22,7 @@
         A developer focused on creating efficient and scalable web solutions. I'm currently specializing in full stack development, with a specific focus on Next.js, TypeScript and Tailwind CSS and other libs such as Clerk, Zod and Resend.
         <br>
         <br>
-        "He who loses achieves virtuous genius through sheer force of will!"
+        "He who loses, achieves virtuous genius through sheer force of will!"
         </p>
      </div>
 
