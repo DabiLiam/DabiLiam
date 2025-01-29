@@ -6,7 +6,7 @@
    <p>FullStack Developer</p>
    
 <div>
-   <a href="https:" target="_blank"><img style="width: 100px;" src="https://img.shields.io/badge/dabiliam-00875f?style=for-the-badge&logo=instagram&logoColor=white&amp target="_blank"></a>
+   <a href="https:" target="_blank"><img style="width: 98px;" src="https://img.shields.io/badge/dabiliam-00875f?style=for-the-badge&logo=instagram&logoColor=white&amp target="_blank"></a>
    <a href="https://www.linkedin.com/in/davi-franco-b834532b7/" target="_blank"><img style="width: 100px;" src="https://img.shields.io/badge/Davi%20Franco-00875f?style=for-the-badge&logo=linkedin&logoColor=white&amp target="_blank"></a>
    <a href="mailto:08davidev@gmail.com" target="_blank"><img style="width: 180px;" src="https://img.shields.io/badge/08davidev@gmail.com-00875f?style=for-the-badge&logo=gmail&logoColor=white&amp target="_blank"></a>
 </div>
