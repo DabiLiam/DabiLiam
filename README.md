@@ -4,6 +4,8 @@
 
 <p>Student ADS <a href="https://www.sumare.edu.br/">@Sumaré</a></p>
    <p>FullStack Developer</p>
+   ![desenvolvedor-full-stack-com-sombra svg](https://github.com/user-attachments/assets/ed9a42cf-bdcd-4d5f-8959-6e1a47623bde)
+
    
 <div>
    <a href="https:" target="_blank"><img style="width: 98px;" src="https://img.shields.io/badge/dabiliam-5b1092?style=for-the-badge&logo=instagram&logoColor=white&amp target="_blank"></a>
