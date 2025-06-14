@@ -6,17 +6,18 @@
 
   <img align="start" height="50" alt="Dev Full-Stack" src="https://github.com/DabiLiam/DabiLiam/assets/130109019/55f0fde0-4d8f-44c9-ab0e-7228281677f5"> 
   
-<div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://instagram.com/dabiliam" target="_blank">
-    <img style="width: 98px;" src="https://img.shields.io/badge/@dabiliam-5b1092?style=for-the-badge&logo=instagram&logoColor=white">
+    <img style="width: 150px;" src="https://img.shields.io/badge/@dabiliam-100d28?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/davi-franco-b834532b7/" target="_blank">
-    <img style="width: 100px;" src="https://img.shields.io/badge/Davi%20Franco-5b1092?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img style="width: 150px;" src="https://img.shields.io/badge/Davi%20Franco-100d28?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
   <a href="mailto:08davidev@gmail.com" target="_blank">
-    <img style="width: 180px;" src="https://img.shields.io/badge/08davidev@gmail.com-5b1092?style=for-the-badge&logo=gmail&logoColor=white">
+    <img style="width: 250px;" src="https://img.shields.io/badge/08davidev@gmail.com-100d28?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
 
 
 
