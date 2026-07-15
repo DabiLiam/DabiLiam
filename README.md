@@ -1,5 +1,5 @@
 <div>
-    <h1>Davi Franco</h1> 
+    <h1>Davi Franco</h1>
 </div>
 
 <p>Student ADS <a href="https://www.sumare.edu.br/">@Sumaré</a></p>
