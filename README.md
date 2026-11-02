@@ -9,7 +9,7 @@
   <samp>
       <br>
         Hi there! I'm Davi Franco,
-        IT professional interested in Full Stack Development, APIs, process automation, and data management.<br>
+        IT professional in Full Stack Development, APIs, process automation, and data management.<br>
         I enjoy building solutions that simplify processes, improve efficiency, and solve real-world problems.
   </samp>
 </div>
