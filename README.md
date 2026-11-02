@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d00ff&height=120&section=header"/>
 <div align="center">
   <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 </div>
@@ -44,7 +45,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" />
   
-  
 </div>
 
 <br>
@@ -63,17 +63,25 @@
 
 <br>
 
+<div align="center">  
+<img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=DabiLiam&show_icons=true&count_private=true&hide_border=true&title_color=8a00c4&icon_color=800080&text_color=c9d1d9&bg_color=0d1117" alt="Davi Franco github stats"/> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DabiLiam&layout=compact&hide_border=true&title_color=8a00c4&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
 <div align="center">
   <samp>
     <b>
       Contact me:
     </b>
   </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:08davidev@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dabiiliam/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/davi-franco-b834532b7/)
   
+  <br>
+  <br>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:08davidev@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-FF1D8D?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dabiiliam/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/davi-franco-b834532b7/)
+
+  </details>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d00ff&height=120&section=footer"/>
