@@ -14,7 +14,7 @@
 <div align="center">
   <img align="" height="50" alt="Davi Molang" src="https://github.com/DabiLiam/DabiLiam/assets/130109019/c17b6eb2-f298-4b80-b11e-7e57aea636ae">
     
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-plain.svg" />
+            
           
 </div>
       
