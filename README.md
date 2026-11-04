@@ -3,7 +3,7 @@
   <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 </div>
 
-<div align="center">
+<div align="center"> 
   
   <i><b>FullStack | IT Governance</b></i>
   <samp>
